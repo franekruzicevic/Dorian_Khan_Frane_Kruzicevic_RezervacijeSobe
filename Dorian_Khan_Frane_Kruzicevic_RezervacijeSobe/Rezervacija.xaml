@@ -20,7 +20,7 @@
             </Image.RenderTransform>
         </Image>
         <Image HorizontalAlignment="Left" Height="127" Margin="280,84,0,0" VerticalAlignment="Top" Width="121" Source="/Dorm2.png"/>
-        <Label Content="Soba 124" HorizontalAlignment="Left" Height="25" Margin="33,206,0,0" VerticalAlignment="Top" Width="118"/>
+        <Label Content="Soba 123" HorizontalAlignment="Left" Height="25" Margin="33,206,0,0" VerticalAlignment="Top" Width="118"/>
         <Label Content="Soba 245" HorizontalAlignment="Left" Height="25" Margin="280,206,0,0" VerticalAlignment="Top" Width="113"/>
         <Button Content="Rezerviraj" HorizontalAlignment="Left" Height="21" Margin="280,245,0,0" VerticalAlignment="Top" Width="121"/>
 
