@@ -5,8 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Dorian_Khan_Frane_Kruzicevic_RezervacijeSobe"
         mc:Ignorable="d"
-        Title="Registracija" Height="450" Width="800">
-    <Grid>
-        
+        Title="Registracija" Height="546" Width="493">
+    <Grid Margin="0,0,0,6" Background="#FF67A7D2">
+        <Label Content="Registracija" HorizontalAlignment="Center" Height="39" Margin="0,26,0,0" VerticalAlignment="Top" Width="370" HorizontalContentAlignment="Center" FontSize="20" FontWeight="Bold"/>
+        <Label Content="OIB" HorizontalAlignment="Left" Height="27" Margin="28,82,0,0" VerticalAlignment="Top" Width="101"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="32,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <Label Content="Ime" HorizontalAlignment="Left" Height="30" Margin="28,143,0,0" VerticalAlignment="Top" Width="151"/>
+        <TextBox HorizontalAlignment="Left" Height="25" Margin="32,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <Button Content="OK" HorizontalAlignment="Center" Height="26" Margin="0,468,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.503,0.57"/>
+        <Label Content="Prezime" HorizontalAlignment="Left" Height="25" Margin="28,208,0,0" VerticalAlignment="Top" Width="151"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="32,238,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <Label Content="Broj telefona" HorizontalAlignment="Left" Height="27" Margin="28,266,0,0" VerticalAlignment="Top" Width="151"/>
+        <TextBox HorizontalAlignment="Left" Height="21" Margin="32,298,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <Label Content="Godina studija" HorizontalAlignment="Left" Margin="28,332,0,0" VerticalAlignment="Top" Width="151"/>
+        <TextBox HorizontalAlignment="Left" Height="21" Margin="32,363,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <Label Content="Adresa" HorizontalAlignment="Left" Height="25" Margin="32,397,0,0" VerticalAlignment="Top" Width="147"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="32,422,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+
     </Grid>
 </Window>
