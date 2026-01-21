@@ -8,4 +8,16 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="dorm1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Slike\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="dorm1.png" />
+  </ItemGroup>
+
 </Project>
