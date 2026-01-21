@@ -9,6 +9,7 @@ namespace Dorian_Khan_Frane_Kruzicevic_RezervacijeSobe
     /// </summary>
     public partial class App : Application
     {
+
     }
 
 }
