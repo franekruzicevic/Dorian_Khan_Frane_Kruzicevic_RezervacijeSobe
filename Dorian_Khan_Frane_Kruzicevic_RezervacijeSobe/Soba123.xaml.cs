@@ -15,9 +15,9 @@ namespace Dorian_Khan_Frane_Kruzicevic_RezervacijeSobe
     /// <summary>
     /// Interaction logic for PodaciZaBoravak.xaml
     /// </summary>
-    public partial class PodaciZaBoravak : Window
+    public partial class Soba123 : Window
     {
-        public PodaciZaBoravak()
+        public Soba123()
         {
             InitializeComponent();
         }

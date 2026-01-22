@@ -8,6 +8,6 @@
         Title="ProvjeraSobe" Height="184" Width="239">
     <Grid Background="#FF67A7D2">
         <TextBlock Height="24" Margin="46,36,46,0" TextWrapping="Wrap" Text="Soba nije dostupna" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" RenderTransformOrigin="0.586,0.535"/>
-        <Button Content="OK" HorizontalAlignment="Center" Height="21" Margin="0,121,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+        <Button Content="OK" HorizontalAlignment="Center" Height="21" Margin="0,121,0,0" VerticalAlignment="Top" Width="72"/>
     </Grid>
 </Window>
