@@ -13,11 +13,11 @@ using System.Windows.Shapes;
 namespace Dorian_Khan_Frane_Kruzicevic_RezervacijeSobe
 {
     /// <summary>
-    /// Interaction logic for Sobe.xaml
+    /// Interaction logic for PodaciZaBoravak.xaml
     /// </summary>
-    public partial class Sobe : Window
+    public partial class PodaciZaBoravak : Window
     {
-        public Sobe()
+        public PodaciZaBoravak()
         {
             InitializeComponent();
         }
