@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Dorian_Khan_Frane_Kruzicevic_RezervacijeSobe"
         mc:Ignorable="d"
-        Title="ProvjeraSobe" Height="450" Width="800">
-    <Grid>
-        
+        Title="ProvjeraSobe" Height="184" Width="239">
+    <Grid Background="#FF67A7D2">
+        <TextBlock Height="24" Margin="46,36,46,0" TextWrapping="Wrap" Text="Soba nije dostupna" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" RenderTransformOrigin="0.586,0.535"/>
+        <Button Content="OK" HorizontalAlignment="Center" Height="21" Margin="0,121,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
     </Grid>
 </Window>
