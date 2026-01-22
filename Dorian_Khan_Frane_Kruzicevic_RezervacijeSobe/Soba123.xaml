@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Dorian_Khan_Frane_Kruzicevic_RezervacijeSobe"
         mc:Ignorable="d"
-        Title="PodaciZaBoravak" Height="312" Width="208">
+        Title="Soba123" Height="312" Width="208">
     <Grid Margin="0,0,0,4" Background="#FF67A7D2">
         <Label Content="Soba 123" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="14"/>
         <Label Content="Datum od:" HorizontalAlignment="Left" Height="29" Margin="53,68,0,0" VerticalAlignment="Top" Width="87"/>
