@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Dorian_Khan_Frane_Kruzicevic_RezervacijeSobe"
         mc:Ignorable="d"
-        Title="Sobe" Height="450" Width="800">
-    <Grid>
-        
+        Title="Sobe" Height="312" Width="208">
+    <Grid Margin="0,0,0,4">
+        <Label Content="Soba 123" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="14"/>
+        <Label Content="Datum od:" HorizontalAlignment="Left" Height="29" Margin="10,66,0,0" VerticalAlignment="Top" Width="87"/>
+        <DatePicker HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top"/>
+        <DatePicker HorizontalAlignment="Left" Margin="10,171,0,0" VerticalAlignment="Top"/>
+        <Label Content="Datum do:" HorizontalAlignment="Left" Height="28" Margin="10,138,0,0" VerticalAlignment="Top" Width="102"/>
+        <Button Content="Rezerviraj" HorizontalAlignment="Center" Height="20" Margin="0,220,0,0" VerticalAlignment="Top" Width="60"/>
     </Grid>
 </Window>
